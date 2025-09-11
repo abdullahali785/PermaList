@@ -27,7 +27,7 @@ It allows you to add, edit, and delete tasks, with all data persisted in a Postg
 
 ### 1. Clone the repo
 ```bash
-git clone [<your-repo-url>](https://github.com/abdullahali785/PermaList)
+git clone https://github.com/abdullahali785/PermaList.git
 cd PermaList
 ```
 
