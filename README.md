@@ -41,5 +41,5 @@ npm install
 node index.js
 ```
 
-## App runs at http://localhost:3000
+## App will run at http://localhost:3000
 
