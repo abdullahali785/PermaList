@@ -23,7 +23,7 @@ It allows you to add, edit, and delete tasks, with all data persisted in a Postg
 
 ---
 
-## User Innterface
+## User Interface
 ![UI](public/assets/UI.png)
 
 ---
