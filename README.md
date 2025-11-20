@@ -23,6 +23,11 @@ It allows you to add, edit, and delete tasks, with all data persisted in a Postg
 
 ---
 
+## User Innterface
+![UI](public/assets/UI.png)
+
+---
+
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the repo
@@ -42,4 +47,3 @@ node index.js
 ```
 
 ## App will run at http://localhost:3000
-
