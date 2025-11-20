@@ -25,25 +25,3 @@ It allows you to add, edit, and delete tasks, with all data persisted in a Postg
 
 ## User Interface
 ![UI](public/assets/UI.png)
-
----
-
-## ⚙️ Setup & Installation
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/abdullahali785/PermaList.git
-cd PermaList
-```
-
-### Install npm Packages
-```
-npm install
-```
-
-### Run Application
-```
-node index.js
-```
-
-## App will run at http://localhost:3000
